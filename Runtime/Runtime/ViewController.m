@@ -24,6 +24,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     [CheckLauchImage checkLanuchImage:3 isShowAd:true ignore:false];
+    //换成你自己的图片网址
     [CheckLauchImage downLauchImageUrl:@"http://192.168.0.165/Upload/ads.jpg" update:true];
     
     
